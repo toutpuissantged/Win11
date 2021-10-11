@@ -16,3 +16,4 @@
 "BypassTPMCheck"=dword:00000001
 "BypassSecureBootCheck"=dword:00000001
 "BypassRAMCheck"=dword:00000001
+
